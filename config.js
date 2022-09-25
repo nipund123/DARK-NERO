@@ -31,16 +31,57 @@ global.APIKeys = {
 
 // Other
 
-global.alivemsg ="HI I'M  ⚜️𝘋𝘈𝘙𝘒 𝘕𝘌𝘙𝘖 𝘔𝘋⚜️"
+global.alivemsg ="𝙷𝙴𝚈😊💫✌️.......
+
+𝚑𝚘𝚠 𝚊𝚛𝚎 𝚢𝚘𝚞 .. (𝚒 𝚊𝚖 ──⃟͟͞   ⁱ ᵃᵐ 𝐍𝐈𝐏𝐔𝐍👨‍💻 ⃟͟͞✗)
+
+𝚒 𝚊𝚖 ˢᵉˣʸ 𝚠𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝 2𝚔22
+
+https://chat.whatsapp.com/HC8mgWt8IUrBoQHTkBmrVf  👈𝚓𝚘𝚒𝚗 𝚖𝚢 𝚠𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝 𝚐𝚛𝚘𝚞𝚙   ...💫    
+
+ඔයාලට ඕනිම සින්දුවක් ඕනිම යූ යියුබ් වීඩියෝවක් ඕනිම පොටෝ එකක් .ඩව්ලෝඩ් කරගන්න ....🥰
+
+👉𝚜𝚘𝚗𝚐 👈මේක ගහලා ඕනි සින්දුවේ නම ගහලා සෙන්ඩ් කරන්න .✌️
+
+
+👉𝚢𝚝 👈මේක ගහල ඕනි වීඩියෝවෙ නම ගහලා සෙන්ඩ් කරන්න💫
+
+👉𝚒𝚖𝚐👈මේක ගහලා ඕනි පොටෝ එකේ නම ගහලා සෙන්ඩ් කරන්න💫🥰
+
+
+──⃟͟͞   ⁱ ᵃᵐ 𝐍𝐈𝐏𝐔𝐍👨‍💻 ⃟͟͞✗✘
+
+
+🤍🌼•𝚃𝚈𝙿𝙴 [𝙵𝙸𝙻𝙴]°📚🌸
+
+🍂°𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙱𝚁𝙾 𝙽𝙸𝙿𝚄𝙽𝙰°🍂
+
+𝚒 𝚊𝚖 ˢᵉˣʸ 𝚠𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝 2𝚔22  ──⃟͟͞   ⁱ ᵃᵐ 𝐍𝐈𝐏𝐔𝐍👨‍💻 ⃟͟͞✗✘
+
+https://chat.whatsapp.com/HC8mgWt8IUrBoQHTkBmrVf  👈𝚓𝚘𝚒𝚗 𝚖𝚢 𝚠𝚑𝚊𝚝𝚜𝚊𝚙𝚙 𝚋𝚘𝚝 𝚐𝚛𝚘𝚞𝚙   ...💫    
+
+𝚒 𝚊𝚖 𝚘𝚗𝚕𝚒𝚗𝚎 ..
+
+𝚋𝚢𝚎 𝚐𝚎𝚗𝚜...✌️..
+
+
+🤍🌼•𝚃𝚈𝙿𝙴 [𝙵𝙸𝙻𝙴]°📚🌸
+
+🍂°𝙿𝙾𝚆𝙴𝚁𝙳 𝙱𝚈 𝙱𝚁𝙾 𝙽𝙸𝙿𝚄𝙽𝙰°🍂
+
+♡ ㅤ    ──⃟͟͞   ⁱ ᵃᵐ 𝐍𝐈𝐏𝐔𝐍👨‍💻 ⃟͟͞✗✘
+
+♡ ㅤ      ❍ㅤ        ⎙ㅤ    ⌲ 
+ˡᶦᵏᵉ     ᶜᵒᵐᵐᵉⁿᵗ     ˢᵃᵛᵉ     ˢʰᵃʳᵉ"
                      
-global.alivepic = "https://i.ibb.co/8N6fR4X/Whats-App-Image-2022-09-17-at-21-22-46.jpg" //you logo key 
+global.alivepic = "https://www.kindpng.com/picc/m/236-2362818_anime-sempai-animegirl-heart-kawaii-cute-anime-girl.png" //you logo key 
 
 
-global.ownername = " KAVEESHA " //ur owner name
-global.owner = ['94774579505','']
-global.premium = ['94774579505','94774579505']
+global.ownername = " NIPUN DILSHAN " //ur owner name
+global.owner = ['94740225768','']
+global.premium = ['94740225768','94774579505']
 global.botname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
-global.ownername = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
+global.ownername = 'NPUN DILSHAN  𝙼⃝𝙳'
 global.group1 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
 global.group2 = 'https://chat.whatsapp.com/GkAmtuJ4jFE6axiNjoSiCX'
 global.packname = '𝙳⃝𝙰𝚁𝙺 𝙽⃟𝙴𝚁𝙾 𝙼⃝𝙳'
